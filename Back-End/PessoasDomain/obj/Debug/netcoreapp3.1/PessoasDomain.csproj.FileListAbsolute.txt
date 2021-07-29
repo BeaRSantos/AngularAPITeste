@@ -1,0 +1,9 @@
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoasDomain\bin\Debug\netcoreapp3.1\PessoasDomain.deps.json
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoasDomain\bin\Debug\netcoreapp3.1\PessoasDomain.dll
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoasDomain\bin\Debug\netcoreapp3.1\PessoasDomain.pdb
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoasDomain\obj\Debug\netcoreapp3.1\PessoasDomain.csproj.AssemblyReference.cache
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoasDomain\obj\Debug\netcoreapp3.1\PessoasDomain.AssemblyInfoInputs.cache
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoasDomain\obj\Debug\netcoreapp3.1\PessoasDomain.AssemblyInfo.cs
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoasDomain\obj\Debug\netcoreapp3.1\PessoasDomain.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoasDomain\obj\Debug\netcoreapp3.1\PessoasDomain.dll
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoasDomain\obj\Debug\netcoreapp3.1\PessoasDomain.pdb

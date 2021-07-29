@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasAPI\\PessoasAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaInfra\\PessoaInfra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaInfra\\PessoaInfra.csproj",
+        "projectName": "PessoaInfra",
+        "projectPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaInfra\\PessoaInfra.csproj",
+        "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaInfra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\beatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasDomain\\PessoasDomain.csproj": {
+                "projectPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasDomain\\PessoasDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
+            "Microsoft.Web.Administration": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasAPI\\PessoasAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasAPI\\PessoasAPI.csproj",
+        "projectName": "PessoasAPI",
+        "projectPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasAPI\\PessoasAPI.csproj",
+        "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\beatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasDomain\\PessoasDomain.csproj": {
+                "projectPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasDomain\\PessoasDomain.csproj"
+              },
+              "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaService\\PessoaService.csproj": {
+                "projectPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaService\\PessoaService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasDomain\\PessoasDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasDomain\\PessoasDomain.csproj",
+        "projectName": "PessoasDomain",
+        "projectPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasDomain\\PessoasDomain.csproj",
+        "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\beatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaService\\PessoaService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaService\\PessoaService.csproj",
+        "projectName": "PessoaService",
+        "projectPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaService\\PessoaService.csproj",
+        "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\beatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaInfra\\PessoaInfra.csproj": {
+                "projectPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoaInfra\\PessoaInfra.csproj"
+              },
+              "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasDomain\\PessoasDomain.csproj": {
+                "projectPath": "C:\\Users\\beatr\\Desktop\\Teste-Itau\\Back-End\\PessoasDomain\\PessoasDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

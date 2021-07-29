@@ -1,0 +1,119 @@
+.table-title {
+    padding-bottom: 15px;
+    min-width: 100%;
+    font-size: 20px;
+    text-align: center;
+}
+.table-title .btn {
+    color: #fff;
+    float: right;
+    font-size: 13px;
+    border: none;
+    min-width: 50px;
+    border-radius: 2px;
+    border: none;
+    outline: none !important;
+    margin-left: 10px;
+}
+.table-title .btn i {
+    float: left;
+    font-size: 21px;
+    margin-right: 5px;
+}
+.table-title .btn span {
+	float: left;
+	margin-top: 2px;
+}
+.table-title img {
+    height: 95px;
+    padding-right: 20px;
+}
+.table-title h2 {
+    margin-top: 12px;
+}
+.header {
+    display: block;
+}
+body {
+ background-color: #e3e3e3;
+}
+.cadastro-model {
+    padding-top: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+    
+}
+.voltar {
+    background-color: #d84d54;
+    transition: 0.5s;
+    margin-top: 12px;
+    text-align: center;
+    color: #f5f5f5;
+}
+.salvar {
+    background-color: #58db58;
+    transition: 0.5s;
+    margin-top: 12px;
+    text-align: center;
+    color: #f5f5f5;
+}
+.atualizar {
+    background-color: #4fb9e2;
+    transition: 0.5s;
+    margin-top: 12px;
+    text-align: center;
+    color: #f5f5f5;
+}
+.excluir {
+    background-color: #d82e2e;
+    transition: 0.5s;
+    margin-top: 12px;
+    text-align: center;
+    color: #f5f5f5; 
+}
+.cadastro {
+    background-color: #086b08;
+    transition: 0.5s;
+    margin-top: -21px;
+    text-align: center;
+    color: #f5f5f5;
+    
+}
+.cadastro:hover{
+    background-color: #144515;
+    transform: translateY(5px);
+    transition: 0.5s;
+}
+.btn i {
+    float: left;
+    font-size: 21px;
+    margin-right: 5px;
+}
+.btn span {
+    float: left;
+    margin-top: 2px;
+}
+.table-box {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px 10px;
+    box-shadow: 8px 9px 2px 1px rgb(83 83 123 / 20%);
+}
+  .search-container input[type=text] {
+    padding: 6px;
+    margin-top: 16px;
+    font-size: 17px;
+    border: none;
+    border-radius: 8px 0px 0px 8px;
+    padding-left: 15px;
+    margin-right: -4px;
+    width: 80%;
+
+  }
+  
+.search-container i {
+    padding: 9.5px 10px 10px 14px;
+    background-color: #fff;
+    font-size: 17px;
+    border-radius: 0px 8px 8px 0px;
+  }

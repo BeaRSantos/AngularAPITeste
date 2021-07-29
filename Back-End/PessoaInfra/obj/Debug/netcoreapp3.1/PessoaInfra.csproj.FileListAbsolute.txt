@@ -1,0 +1,12 @@
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\obj\Debug\netcoreapp3.1\PessoaInfra.csproj.AssemblyReference.cache
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\obj\Debug\netcoreapp3.1\PessoaInfra.AssemblyInfoInputs.cache
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\obj\Debug\netcoreapp3.1\PessoaInfra.AssemblyInfo.cs
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\obj\Debug\netcoreapp3.1\PessoaInfra.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\bin\Debug\netcoreapp3.1\PessoaInfra.deps.json
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\bin\Debug\netcoreapp3.1\PessoaInfra.dll
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\bin\Debug\netcoreapp3.1\PessoaInfra.pdb
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\bin\Debug\netcoreapp3.1\PessoasDomain.dll
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\bin\Debug\netcoreapp3.1\PessoasDomain.pdb
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\obj\Debug\netcoreapp3.1\PessoaInfra.csproj.CopyComplete
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\obj\Debug\netcoreapp3.1\PessoaInfra.dll
+C:\Users\beatr\Desktop\Teste-Itau\CRUDAPI\PessoaInfra\obj\Debug\netcoreapp3.1\PessoaInfra.pdb
